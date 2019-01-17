@@ -1,5 +1,6 @@
 # termux-ubuntu
-Ubuntu Xenial
+##Ubuntu Xenial
+
 A script to install Ubuntu chroot in Termux
 
 You need to install wget and proot in Termux before using this script.
